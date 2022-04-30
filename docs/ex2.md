@@ -10,6 +10,8 @@ for x in 0,1:
                 if ('выражение F из задания'): 
                     print (x,y,z,w) #если условие рядом с if выполняется, print выводит значения x,y,z,w
 ```
+[Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/0540f75f0b8010244c5f4297e909470b356f5c24/templates/ex2-4variables.py)
+
 ## Шаблон для 3 переменных:
 ```
 for x in 0,1:
@@ -18,6 +20,8 @@ for x in 0,1:
                 if ('выражение F из задания'): 
                     print (x,y,z,w) #если условие рядом с if выполняется, print выводит значения x,y,z
 ```
+[Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/0540f75f0b8010244c5f4297e909470b356f5c24/templates/ex2-3variables.py)
+
 ## Как правильно написать выражение F из задачи
 Главное в этом способе - правильно записать условие. Для этого необходимо:
 
