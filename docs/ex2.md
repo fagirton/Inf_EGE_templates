@@ -57,7 +57,7 @@ for x in 0,1:
                 if ((x or y) <= (z==x))==0: 
                     print (x,y,z) #если условие рядом с if выполняется, print выводит значения x,y,z
 ```
-[Ссылка на файл](ex2-example1.py)
+[Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/38638d1c9c31b3b89f8212e47b22256c93d4cac2/examples/ex2-example1.py)
 
 Программа выводит на экран соответственно значения x, y, z:
 ```
