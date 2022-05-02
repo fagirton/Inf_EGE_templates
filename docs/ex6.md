@@ -42,6 +42,7 @@ for i in range(0,10000):
   if n==23: print(i)
 ```
 [Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/42721e34caf021cc28af55110ce88da71076d984/examples/ex6-example.py)
+
 Программа выдаст очень много значений, но нам нужно наименьшее, то есть самое первое - 256
 
 Ответ:256
