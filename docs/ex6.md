@@ -13,7 +13,7 @@ for i in range(0,100000):
   # заменить int(input()) на i
   # заменить print(n) на if n==X: print(i)  
 ```
-[Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/0540f75f0b8010244c5f4297e909470b356f5c24/templates/ex2-4variables.py)
+[Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/0f27397acd4e75f9544e7513e306687f83828b12/templates/ex6-template.py)
 
 
 ## Примеры задач
@@ -33,7 +33,7 @@ print(n)
 
 Решение:
 ```
-for i in range(0,10000)
+for i in range(0,10000):
   s = i
   n = 50
   while s > 0:
@@ -42,9 +42,9 @@ for i in range(0,10000)
   if n==23: print(i)
 ```
 [Ссылка на файл](https://github.com/fagirton/Inf_EGE_templates/blob/38638d1c9c31b3b89f8212e47b22256c93d4cac2/examples/ex2-example1.py)
+Программа выдаст очень много значений, но нам нужно наименьшее, то есть самое первое - 256
 
-
-Ответ:
+Ответ:256
 
 
 ## Примечания
